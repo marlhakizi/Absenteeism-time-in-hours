@@ -11,5 +11,4 @@ A few questions to consider along the way:
 
 * Is there an obvious relationship between reason for absence and absenteeism?
 
-
-
+![alt text](https://github.com/marlhakizi/Absenteeism-time-in-hours/blob/master/Screen%20Shot%202019-04-17%20at%207.55.05%20PM.png)
