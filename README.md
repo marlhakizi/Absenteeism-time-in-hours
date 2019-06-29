@@ -5,10 +5,13 @@ According to Forbes, Absenteeism is an employee’s intentional or habitual abse
 
 This project will be looking at a dataset from Brazil where records of absenteeism at work were collected from July 2007 to July 2010 at a courier company. The goal is **to reduce worker absenteeism and evaluate the primary causes of absenteeism**. 
 
-A few questions to consider along the way:
+A few questions considered along the way:
 
 * Which areas of life affect Abseenteeism(i.e: Work or Family..)?
 
 * Is there an obvious relationship between reason for absence and absenteeism?
 
+# Conclusion
+
+Two main classification models were used: Random Forest and Logistic Regression with the former having a 2% performance advantage over the latter. Hence, Random Forest can better predict employee absenteeism with work related reasons being the main causes.
 ![alt text](https://github.com/marlhakizi/Absenteeism-time-in-hours/blob/master/Screen%20Shot%202019-04-17%20at%207.55.05%20PM.png)
